@@ -1,7 +1,7 @@
 - 👋 Salut ! Je suis **@ProfessorRodolfo**
 - 👍 J’ai commencé à étudier la programmation récemment
 - 👀 Je m'Intéresse à connaître les nouveautés en programmation
-- 📫 Mon curriel c'est disponible ici ! [email](rodolfo.meger@escola.pr.gov.br)
+- 📫 Mon courriel est disponible ici ! [email](rodolfo.meger@escola.pr.gov.br)
 
 ![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 
